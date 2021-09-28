@@ -121,7 +121,7 @@
                 </div>
                 <p>I'm <strong>Mohammed Askar</strong>. I'm a <strong>Software Engineering undergraduate</strong> and . I'm a self learner and a hard worker who is keen on seeking new knowledge and experience.I love working in a big IT company</p>
             </div>
-           
+           <br>
             <div class="resume_item resume_hobby">
                 <div class="title">
                     <p class="bold">Hobby</p>
