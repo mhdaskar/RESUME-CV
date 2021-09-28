@@ -121,59 +121,7 @@
                 </div>
                 <p>I'm <strong>Mohammed Askar</strong>. I'm a <strong>Software Engineering undergraduate</strong> and . I'm a self learner and a hard worker who is keen on seeking new knowledge and experience.I love working in a big IT company</p>
             </div>
-            <div class="resume_item resume_work">
-                <div class="title">
-                    <p class="bold">Work Experience</p>
-                </div>
-                <ul>
-                    <li>
-                        <div class="date">2020 - Present</div>
-                        <div class="info">
-                            <p class="semi-bold"><u>Orel IT - Nawinna, Sri Lanka</u></p> 
-                            <p><strong>Associate Image Processor</strong></p>
-                            <p>We do Data Annotation and Labelling for AI projects</p>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-            <div class="resume_item resume_education">
-                <div class="title">
-                    <p class="bold">Education</p>
-                </div>
-                <ul>
-                    <li>
-                        <div class="date">2021 - Present</div>
-                        <div class="info">
-                            <p class="semi-bold"><u>Open University Sri Lanka</u></p>
-                            <p><strong>Undergraduate</strong> - Bachelor of Software Engineering</p>
-                            <br>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="date">2019-2021</div>
-                        <div class="info">
-                            <p class="semi-bold"><u>Esoft Metro Campus - Piliyandala</u>></p>
-                            <p>Diploma in ICT</p>
-                            <p>Diploma in English</p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="date">2017-2019 & 2020</div>
-                        <div class="info">
-                            <p class="semi-bold"><u>D.S Senanayaka College, Colombo</u>></p>
-                            <p><strong>G.C.E A/L - Physical Science - English Medium</strong></p>
-                            <p>First Attempt - 2019 / Second Attempt - 2020</p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="date">2006-2016</div>
-                        <div class="info">
-                            <p class="semi-bold"><u>Ananda Sasthralaya, Kotte</u></p>
-                            <p><strong>G.C.E O/L - English Medium</strong></p>
-                        </div>
-                    </li>
-                </ul>
-            </div>
+           
             <div class="resume_item resume_hobby">
                 <div class="title">
                     <p class="bold">Hobby</p>
