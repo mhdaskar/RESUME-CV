@@ -24,16 +24,16 @@
                     </div>
                     <ul>
                         <li>
-                            <div class="icon">Home: </div>
-                            <div class="data">360/9, Liyanagegama, Artigala, Hanwella</div>
+                            <div class="icon">Location: </div>
+                            <div class="data">Yagamwella,Dummalasooriya</div>
                         </li>
                         <li>
                             <div class="icon">Contact: </div>
-                            <div class="data">0771482736</div>
+                            <div class="data">0764530235</div>
                         </li>
                         <li>
                             <div class="icon">Email: </div>
-                            <div class="data">ravindugayashancle@gmail.com</div>
+                            <div class="data">mhdaskar999@gmail.com</div>
                         </li>
                     </ul>
                 </div>
@@ -45,23 +45,23 @@
                         <li>
                             <div class="skill_name"> HTML </div>
                             <div class="skill_progress">
-                                <span style="width: 80%;"></span>
+                                <span style="width: 50%;"></span>
                             </div>
-                            <div class="skill_per">80%</div>
+                            <div class="skill_per">50%</div>
                         </li>
                         <li>
                             <div class="skill_name"> CSS </div>
                             <div class="skill_progress">
-                                <span style="width: 70%;"></span>
+                                <span style="width: 50%;"></span>
                             </div>
-                            <div class="skill_per">70%</div>
+                            <div class="skill_per">50%</div>
                         </li>
                         <li>
                             <div class="skill_name"> JS </div>
                             <div class="skill_progress">
-                                <span style="width: 45%;"></span>
+                                <span style="width: 40%;"></span>
                             </div>
-                            <div class="skill_per">45%</div>
+                            <div class="skill_per">40%</div>
                         </li>
                     </ul>
                 </div>
@@ -75,7 +75,7 @@
                                 <p class="semi_bold">
                                     Facebook
                                 </p>
-                                <p><a href="https://www.facebook.com/ravindu.gayashan.714/">Ravindu@facebook</a></p>
+                                <p><a href="https://www.facebook.com/mohammed.askar.144181/</a></p>
                             </div>
                         </li>
                         <li>
@@ -83,7 +83,7 @@
                                 <p class="semi_bold">
                                     Instagram
                                 </p>
-                                <p><a href="https://www.instagram.com/ravindu_gayashan_3000/">Ravindu@instagram</a></p>
+                                <p><a href="https://www.instagram.com/mhdaskar999/">@instagram</a></p>
                             </div>
                         </li>
                         <li>
@@ -91,7 +91,7 @@
                                 <p class="semi_bold">
                                     Twitter
                                 </p>
-                                <p><a href="https://twitter.com/GayashanRavindu">Ravindu@twitter</a></p>
+                                <p><a href="https://twitter.com/Mhdak999">@twitter</a></p>
                             </div>
                         </li>
                         <li>
@@ -99,7 +99,7 @@
                                 <p class="semi_bold">
                                     LinkedIn
                                 </p>
-                                <p><a href="https://www.linkedin.com/in/ravindu-gayashan-27a18a197/">Ravindu@LinkedIn</a></p>
+                                <p><a href="https://www.linkedin.com/in/mohammed-askar-518247222/">@LinkedIn</a></p>
                             </div>
                         </li>
                         <li>
@@ -107,7 +107,7 @@
                                 <p class="semi_bold">
                                     Github
                                 </p>
-                                <p><a href="https://github.com/rg3000agentk">Ravindu@github</a></p>
+                                <p><a href="https://github.com/mhdaskar">@github</a></p>
                             </div>
                         </li>
                     </ul>
@@ -119,7 +119,7 @@
                 <div class="title">
                     <p class="bold">About Me</p>
                 </div>
-                <p>I'm <strong>Ravindu Gayashan</strong>. I'm a <strong>Software Engineering undergraduate</strong> and an <strong>Employee</strong>. Seeking an entry level position in <strong>Front-End Web Development</strong> to enhance my experience, knowledge and as a carrier change. I'm a self learner and a hard worker who is keen on seeking new knowledge and experience.</p>
+                <p>I'm <strong>Mohammed Askar</strong>. I'm a <strong>Software Engineering undergraduate</strong> and . I'm a self learner and a hard worker who is keen on seeking new knowledge and experience.I love working in a big IT company</p>
             </div>
             <div class="resume_item resume_work">
                 <div class="title">
