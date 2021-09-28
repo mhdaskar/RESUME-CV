@@ -14,12 +14,12 @@
     <div class="resume">
         <div class="resume_left">
             <div class="resume_profile">
-                <img src="" alt="resume profile">
+                <img src="myimage (1).jpg" alt="CV profile">
             </div>
             <div class="resume_content">
                 <div class="resume_item resume_info">
                     <div class="title">
-                        <p class="bold">H. K. Ravindu Gayashan</p>
+                        <p class="bold">M.R.M.ASKAR</p>
                         <p class="regular">Undergraduate</p>
                     </div>
                     <ul>
